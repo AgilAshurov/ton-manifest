@@ -3,7 +3,7 @@
     "name": "My Telegram MiniApp",
     "description": "Подключение TON кошелька в Mini App",
     "url": "https://agilashurov.github.io/ton-manifest",
-    "icons": ["https://agilashurov.github.io/ton-manifest/icon.png"],
+    "icons": ["https://ton.org/assets/img/ton_symbol.svg"],
     "bridge": {
       "type": "ton-x"
     }
