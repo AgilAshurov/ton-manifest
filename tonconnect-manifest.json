@@ -2,7 +2,7 @@
     "manifest_version": "0",
     "name": "giftvendor",
     "description": "Подключение TON кошелька в Mini App",
-    "url": "https://e49e-185-146-112-65.ngrok-free.app",
+    "url": "https://ef72-185-146-112-65.ngrok-free.app/giftvendor",
     "icons": ["https://ton.org/assets/img/ton_symbol.svg"],
     "bridge": {
       "type": "ton-x"
