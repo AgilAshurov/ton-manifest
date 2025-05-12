@@ -1,10 +1,5 @@
 {
-    "manifest_version":"0",
     "name": "My Telegram MiniApp",
-    "description":"Подключение TON кошелька в Mini App",
     "url":"https://a2ee-185-146-112-65.ngrok-free.app",
-    "icons": ["https://agilashurov.github.io/ton-manifest/gift_vendor_icon.png"],
-    "bridge": {
-      "type": "ton-x"
-    }
-  }
+    "iconUrl": "https://agilashurov.github.io/ton-manifest/gift_vendor_icon.png"
+}
